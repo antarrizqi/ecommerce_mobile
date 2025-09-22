@@ -57,7 +57,6 @@
 //   }
 // }
 
-import 'package:ecommerce_mobile/features/home/screen/detail_screen/detail_salad.dart';
 import 'package:flutter/material.dart';
 
 Container cardMethod(

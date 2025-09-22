@@ -1,8 +1,4 @@
-import 'package:ecommerce_mobile/features/home/home_screen.dart';
-import 'package:ecommerce_mobile/features/home/screen/detail_screen/detail_salad.dart';
 import 'package:ecommerce_mobile/features/home/screen/main_screen/main_screen.dart';
-import 'package:ecommerce_mobile/features/onboarding/on_boarding2.dart';
-import 'package:ecommerce_mobile/features/splash/splash_screen.dart';
 import 'package:flutter/material.dart';
 
 void main() {

@@ -1,5 +1,4 @@
 import 'package:ecommerce_mobile/features/cart/screen/cart_screen.dart';
-import 'package:ecommerce_mobile/features/home/home_screen.dart';
 import 'package:flutter/material.dart';
 
 class MyDetail extends StatefulWidget {
